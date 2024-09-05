@@ -2,13 +2,9 @@
 
 Welcome to my GitHub profile! 🚀
 
-## 📊 My GitHub Activity
+## 📚 💻 GitHub Stats and Most Used Languages
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=maksimEgo&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## 💻 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maksimEgo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maksimEgo&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maksimEgo)
 
 ## 🏆 Trophies
 
